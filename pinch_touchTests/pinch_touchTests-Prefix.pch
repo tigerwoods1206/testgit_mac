@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'pinch_touchTests' target in the 'pinch_touchTests' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+#endif
